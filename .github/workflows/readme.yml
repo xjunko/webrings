@@ -1,6 +1,11 @@
 name: Healthcheck and README
 
-on: push
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *'
+
 
 jobs:
   generate:
