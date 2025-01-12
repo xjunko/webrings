@@ -1,6 +1,6 @@
 # pakb webrings
 
-even when we're near, it's still far and distant.
+it is what it is
 
 ## members
 
