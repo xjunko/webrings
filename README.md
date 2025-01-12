@@ -6,7 +6,6 @@ it is what it is
 
 - [junko](https://kafu.ovh) 
 - [mystia](https://mystialorelei.neocities.org) 
-- [aya](https://fawnsnangels.neocities.org) 
 - [arissa](https://muhsillythoughts.neocities.org) 
 - [zavents](https://zavents.ovh) 
 
